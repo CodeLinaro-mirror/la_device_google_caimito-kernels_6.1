@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11980571"
+    build_id: "11988422"
     target: "caimito"
     source_file: "i2c-exynos5.ko"
   }
   dest_file: "24D1/i2c-exynos5.ko"
-  version: "11980571"
+  version: "11988422"
   version_group: "kernel-and-modules"
   git_project: "device/google/caimito-kernels/6.1"
 }
