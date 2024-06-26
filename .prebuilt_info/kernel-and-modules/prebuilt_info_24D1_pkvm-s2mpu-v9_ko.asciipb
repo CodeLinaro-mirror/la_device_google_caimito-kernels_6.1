@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "12012459"
+    build_id: "12019086"
     target: "caimito"
     source_file: "pkvm-s2mpu-v9.ko"
   }
   dest_file: "24D1/pkvm-s2mpu-v9.ko"
-  version: "12012459"
+  version: "12019086"
   version_group: "kernel-and-modules"
   git_project: "device/google/caimito-kernels/6.1"
 }
