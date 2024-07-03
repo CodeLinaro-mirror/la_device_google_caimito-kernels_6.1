@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "12026659"
+    build_id: "12043225"
     target: "caimito_kasan"
     source_file: "iovad-best-fit-algo.ko"
   }
   dest_file: "24D1/kasan/iovad-best-fit-algo.ko"
-  version: "12026659"
+  version: "12043225"
   version_group: "kernel-and-modules"
   git_project: "device/google/caimito-kernels/6.1"
 }
