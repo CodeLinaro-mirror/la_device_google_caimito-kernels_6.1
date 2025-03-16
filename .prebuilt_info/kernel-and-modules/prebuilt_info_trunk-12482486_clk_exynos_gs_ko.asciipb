@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "12482486"
+    target: "caimito"
+    source_file: "clk_exynos_gs.ko"
+  }
+  dest_file: "trunk-12482486/clk_exynos_gs.ko"
+  version: "12482486"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/caimito-kernels/6.1"
+}
